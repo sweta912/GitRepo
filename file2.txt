@@ -1,4 +1,0 @@
-files
-
-This is my file2.txt
-How are you?
